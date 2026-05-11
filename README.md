@@ -13,4 +13,4 @@ This project serves as a valuable resource for cybersecurity analysts, students,
 
 
 
-<img width="1267" height="723" alt="Screenshot 2025-11-30 160529" src="https://github.com/user-attachments/assets/7116bcad-fda9-4c34-8ecb-a35da19cbb16" />
+<img width="1404" height="792" alt="image" src="https://github.com/user-attachments/assets/7116bcad-fda9-4c34-8ecb-a35da19cbb16" />
