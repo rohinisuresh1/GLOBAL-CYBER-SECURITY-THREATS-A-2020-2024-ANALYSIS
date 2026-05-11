@@ -20,4 +20,3 @@ This project serves as a valuable resource for cybersecurity analysts, students,
 
 
 
-<img width="1404" height="792" alt="image"
